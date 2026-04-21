@@ -1,0 +1,10 @@
+# Mapfile. Created by GNU ddrescue version 1.29
+# Command line: ddrescue -d /dev/sdb1 /dev/sdX rescue.log
+# Start time:   2026-04-21 00:56:53
+# Current time: 2026-04-21 00:57:03
+# Copying non-tried blocks... Pass 1 (forwards)
+# current_pos  current_status  current_pass
+0x460E0000     ?               1
+#      pos        size  status
+0x00000000  0x460E0000  +
+0x460E0000  0xE89A9D6000  ?
